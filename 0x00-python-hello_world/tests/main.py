@@ -1,2 +1,4 @@
 #!/usr/bin/python3
-export PYFILE='print("Best School")'
+print("Best School")
+
+export PYFILE=main.py
