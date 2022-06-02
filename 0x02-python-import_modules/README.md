@@ -10,9 +10,9 @@ Read or watch:
 
 [Pycodestyle – Style Guide for Python Code](https://alx-intranet.hbtn.io/rltoken/FlkAJ_kPXHC4Y65WrRvA4A)
 
-man or help:
+`man or help`:
 
-python3
+`python3`
 
 ## General
 - Why Python programming is awesome
