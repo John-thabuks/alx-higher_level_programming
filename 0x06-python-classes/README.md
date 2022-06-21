@@ -60,4 +60,4 @@ At the end of this project, you are expected to be able to explain to anyone, `w
    - A documentation is not a simple word, it’s a real sentence explaining what’s the purpose of the module, class or method (the length of it will be verified)
 
 # More Info
-`Documentation is now mandatory!` Each module, class, and method must contain docstring as comments. Example `Google Style Python Docstrings`
+`Documentation is now mandatory!` Each module, class, and method must contain docstring as comments. Example [Google Style Python Docstrings](https://alx-intranet.hbtn.io/rltoken/dOO785g5EQYkRU2E1wri0g)
