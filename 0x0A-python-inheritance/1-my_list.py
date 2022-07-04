@@ -6,11 +6,12 @@
 
 class MyList(list):
     """
-        Mylist class
+     class MyList that inherits from list
     """
-
     def print_sorted(self):
         """
-            Prints a sorted list in ascending order
+        Public instance method that prints sorted list
         """
-        print(sorted(self))
+        list_copy = self[:]
+        list_copy.sort()
+        print(list_copy)
