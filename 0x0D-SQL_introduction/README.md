@@ -13,7 +13,7 @@
 
 - [What is Database & SQL?](https://alx-intranet.hbtn.io/rltoken/yyRKTEdRkYEVlRgZPbasjw)
 - [A Basic MySQL Tutorial](https://alx-intranet.hbtn.io/rltoken/sV2PtK5YfQsXWW1malRZ5Q)
-- [Basic SQL statements: DDL and DML] *(no need to read the chapter “Privileges”)*(https://alx-intranet.hbtn.io/rltoken/IUKo4-UaRZSKPvXr5u9oBw)
+- [Basic SQL statements: DDL and DML *(no need to read the chapter “Privileges”)*](https://alx-intranet.hbtn.io/rltoken/IUKo4-UaRZSKPvXr5u9oBw)
 - [Basic queries: SQL and RA](https://alx-intranet.hbtn.io/rltoken/rXKvu2u7vg1Hj6bnX7UgMg)
 - [SQL technique: functions](https://alx-intranet.hbtn.io/rltoken/-Riv_dzSYsJyvy-LlaO6Mg)
 -[SQL technique: subqueries](https://alx-intranet.hbtn.io/rltoken/QpIXoR--8eBIaidgSWYsBQ)
