@@ -1,4 +1,4 @@
-`0x0D. SQL - Introduction`
+# 0x0D. SQL - Introduction
 `SQL` `MySQL`
 
 # Concepts
@@ -80,4 +80,4 @@ performance_schema
 sys                      
 $
 ```
-### In the container, credentials are `root/root`
+#### In the container, credentials are `root/root`
